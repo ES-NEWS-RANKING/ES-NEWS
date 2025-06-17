@@ -8,14 +8,14 @@
 | 排名 | 大学名称（中文）                          | 大学名称（英文）                                   |
 | ---- | ------------------------------------- | ------------------------------------------------- |
 | 0    | 广告位招租                     | Pay to rank here                   |
-| 1    | [澳大利亚国立大学](https://www.anu.edu.au)                     | [Australian National University](https://www.anu.edu.au)                     | [官网](https://www.anu.edu.au)              |
-| 2    | [墨尔本大学](https://www.unimelb.edu.au)                          | [University of Melbourne](https://www.unimelb.edu.au)                           | [官网](https://www.unimelb.edu.au)          |
-| 3    | [悉尼大学](https://www.sydney.edu.au)                            | [University of Sydney](https://www.sydney.edu.au)                             | [官网](https://www.sydney.edu.au)           |
-| 4    | [新南威尔士大学](https://www.unsw.edu.au)                      | [University of New South Wales](https://www.unsw.edu.au)                       | [官网](https://www.unsw.edu.au)             |
-| 5    | [昆士兰大学](https://www.uq.edu.au)                              | [University of Queensland](https://www.uq.edu.au)                               | [官网](https://www.uq.edu.au)                |
-| 6    | [西澳大利亚大学](https://www.uwa.edu.au)                        | [University of Western Australia](https://www.uwa.edu.au)                       | [官网](https://www.uwa.edu.au)              |
-| 7    | [阿德莱德大学](https://www.adelaide.edu.au)                      | [University of Adelaide](https://www.adelaide.edu.au)                           | [官网](https://www.adelaide.edu.au)         |
-| 8    | [莫纳什大学](https://www.monash.edu)                            | [Monash University](https://www.monash.edu)                                   | [官网](https://www.monash.edu)              |
+| 1    | [澳大利亚国立大学](https://www.anu.edu.au)                     | [Australian National University](https://www.anu.edu.au)                     | 
+| 2    | [墨尔本大学](https://www.unimelb.edu.au)                          | [University of Melbourne](https://www.unimelb.edu.au)                           | 
+| 3    | [悉尼大学](https://www.sydney.edu.au)                            | [University of Sydney](https://www.sydney.edu.au)                             | 
+| 4    | [新南威尔士大学](https://www.unsw.edu.au)                      | [University of New South Wales](https://www.unsw.edu.au)                       | 
+| 5    | [昆士兰大学](https://www.uq.edu.au)                              | [University of Queensland](https://www.uq.edu.au)                               | 
+| 6    | [西澳大利亚大学](https://www.uwa.edu.au)                        | [University of Western Australia](https://www.uwa.edu.au)                       | 
+| 7    | [阿德莱德大学](https://www.adelaide.edu.au)                      | [University of Adelaide](https://www.adelaide.edu.au)                           | 
+| 8    | [莫纳什大学](https://www.monash.edu)                            | [Monash University](https://www.monash.edu)                                   | 
 | 9    | 牛津大学                            | University of Oxford                             |
 | 10   | 哈佛大学                            | Harvard University                               |
 | 11   | 斯坦福大学                          | Stanford University                              |
