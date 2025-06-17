@@ -7,7 +7,7 @@
 
 | 排名 | 大学名称（中文）                          | 大学名称（英文）                                   |
 | ---- | ------------------------------------- | ------------------------------------------------- |
-| 0    | 广告位招租                     | Pay to rank                   |
+| 0    | 广告位招租                     | Pay to rank here                   |
 | 1    | 澳大利亚国立大学                     | Australian National University                     |
 | 2    | 墨尔本大学                          | University of Melbourne                           |
 | 3    | 悉尼大学                            | University of Sydney                             |
