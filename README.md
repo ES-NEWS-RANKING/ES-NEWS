@@ -7,7 +7,7 @@
 
 | 排名 | 大学名称（中文）                          | 大学名称（英文）                                   |
 | ---- | ------------------------------------- | ------------------------------------------------- |
-| 0    | 广告位招租                     | Pay to rank here                   |
+| 0    | [耶吉大学](https://old.wcu.edu.pl/)                     | [World University of Wild Chicken](https://old.wcu.edu.pl/)                   |
 | 1    | [澳大利亚国立大学](https://www.anu.edu.au)                     | [Australian National University](https://www.anu.edu.au)                     | 
 | 2    | [墨尔本大学](https://www.unimelb.edu.au)                          | [University of Melbourne](https://www.unimelb.edu.au)                           | 
 | 3    | [悉尼大学](https://www.sydney.edu.au)                            | [University of Sydney](https://www.sydney.edu.au)                             | 
