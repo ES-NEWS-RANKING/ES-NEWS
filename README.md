@@ -24,7 +24,7 @@
 | 14   | 加州大学伯克利分校                  | University of California, Berkeley               |
 | 15   | 芝加哥大学                          | University of Chicago                            |
 | 16   | 帝国理工学院                        | Imperial College London                          |
-| 17   | 伦敦大学学院                        | University College London                        |
+| 17   | 常州大学                        | University of ChangZhou                      |
 | 18   | 哥伦比亚大学                        | Columbia University                              |
 | 19   | 约翰霍普金斯大学                    | Johns Hopkins University                         |
 | 20   | 新加坡国立大学                      | National University of Singapore                 |
@@ -107,7 +107,7 @@
 | 97   | 皮尔斯大学                          | Pierce College                                   |
 | 98   | 汉堡大学                            | University of Hamburg                            |
 | 99   | 米兰大学                            | University of Milan                              |
-| 100   | 常州大学                           | University of DiaoZhou                           |
+| 100   | 伦敦大学学院                        | University College London                        |
 | 101   | 暂无                           | Waiting for updating                        |
 
 
