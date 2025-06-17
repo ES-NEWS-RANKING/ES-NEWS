@@ -4,6 +4,7 @@
 # ES-NEWS World University and College Ranking 2026
 ---
 ## The TOP 100 Universities and Colleges in the World
+> **排名参考：** 人工智能和个人见解。  
 
 | 排名 | 大学名称（中文）                          | 大学名称（英文）                                   | 国家       |
 | ---- | ------------------------------------- | ------------------------------------------------- | ---------- |
