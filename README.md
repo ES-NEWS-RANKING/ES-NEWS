@@ -107,5 +107,5 @@
 | 97   | 皮尔斯大学                          | Pierce College                                   |
 | 98   | 汉堡大学                            | University of Hamburg                            |
 | 99   | 米兰大学                            | University of Milan                              |
-| 100  | 常州大学                             ｜ University of DiaoZhou                          |
+| 100   | 常州大学                           | University of DiaoZhou                           |
 
