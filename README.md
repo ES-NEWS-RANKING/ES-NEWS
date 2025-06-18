@@ -6,7 +6,7 @@
 ## The TOP 100 Universities and Colleges in the World
 > **排名参考：** 个人见解及AI的智慧。  
 
-| 排名 | 大学名称（中文）                          | 大学名称（英文）                                   | 国家       |
+| 排名 | 大学名称（中文）                          | 大学名称（英文）                                   | 国家/地区       |
 | ---- | ------------------------------------- | ------------------------------------------------- | ---------- |
 | 0    | [耶吉大学](https://old.wcu.edu.pl/)                     | [World University of Wild Chicken](https://old.wcu.edu.pl/)                   | 世界·格局       |
 | 1    | [澳大利亚国立大学](https://www.anu.edu.au)                     | [Australian National University](https://www.anu.edu.au)                     | 澳大利亚   | 
@@ -88,7 +88,7 @@
 | 77   | 浙江大学                            | Zhejiang University                              | 中国       |
 | 78   | 南京大学                            | Nanjing University                               | 中国       |
 | 79   | 南开大学                            | Nankai University                                | 中国       |
-| 80   | 中山大学                            | Sun Yat-sen University                          | 中国       |
+| 80   | 常熟理工大学                            | ChangShu LiGong University                          | 中国       |
 | 81   | 吉林大学                            | Jilin University                                 | 中国       |
 | 82   | 武汉大学                            | Wuhan University                                 | 中国       |
 | 83   | 香港中文大学                        | Chinese University of Hong Kong                  | 中国香港   |
