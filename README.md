@@ -4,7 +4,7 @@
 # ES-NEWS World University and College Ranking 2026
 ---
 ## The TOP 100 Universities and Colleges in the World
-> **排名参考：** 人工智能和个人见解。  
+> **排名参考：** 个人见解及AI的智慧。  
 
 | 排名 | 大学名称（中文）                          | 大学名称（英文）                                   | 国家       |
 | ---- | ------------------------------------- | ------------------------------------------------- | ---------- |
@@ -109,7 +109,7 @@
 | 98   | 汉堡大学                            | University of Hamburg                            | 德国       |
 | 99   | 米兰大学                            | University of Milan                              | 意大利     |
 | 100  | 伦敦大学学院                        | University College London                        | 英国       |
-| 101   | 暂无                           | Waiting for updating                        |
-
+| 101-199   | 暂无                           | Waiting for updating                        |
+| 200   | [圣塔莫妮卡学院](https://www.smc.edu/)      | [Santa Monica College · The small Harvard](https://www.smc.edu/)    | 美国  |
 
 
